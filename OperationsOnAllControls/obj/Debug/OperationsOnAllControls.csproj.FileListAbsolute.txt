@@ -6,3 +6,4 @@ E:\SOFTWARE\OperationsOnAllControls\OperationsOnAllControls\OperationsOnAllContr
 E:\SOFTWARE\OperationsOnAllControls\OperationsOnAllControls\OperationsOnAllControls\bin\Debug\OperationsOnAllControls.pdb
 E:\SOFTWARE\OperationsOnAllControls\OperationsOnAllControls\OperationsOnAllControls\obj\Debug\OperationsOnAllControls.exe
 E:\SOFTWARE\OperationsOnAllControls\OperationsOnAllControls\OperationsOnAllControls\obj\Debug\OperationsOnAllControls.pdb
+E:\SOFTWARE\OperationsOnAllControls\OperationsOnAllControls\OperationsOnAllControls\obj\Debug\OperationsOnAllControls.csprojResolveAssemblyReference.cache

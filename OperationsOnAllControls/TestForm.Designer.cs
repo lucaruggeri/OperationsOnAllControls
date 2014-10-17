@@ -89,6 +89,7 @@
             this.checkBox10 = new System.Windows.Forms.CheckBox();
             this.checkBox11 = new System.Windows.Forms.CheckBox();
             this.checkBox12 = new System.Windows.Forms.CheckBox();
+            this.objCheckSummary = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // textBox2
@@ -429,9 +430,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(14, 492);
+            this.button1.Location = new System.Drawing.Point(12, 492);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(1384, 23);
+            this.button1.Size = new System.Drawing.Size(314, 23);
             this.button1.TabIndex = 49;
             this.button1.Text = "CLEAN ALL CONTROLS";
             this.button1.UseVisualStyleBackColor = true;
@@ -557,11 +558,22 @@
             this.checkBox12.Text = "checkBox12";
             this.checkBox12.UseVisualStyleBackColor = true;
             // 
+            // objCheckSummary
+            // 
+            this.objCheckSummary.AutoSize = true;
+            this.objCheckSummary.Location = new System.Drawing.Point(14, 469);
+            this.objCheckSummary.Name = "objCheckSummary";
+            this.objCheckSummary.Size = new System.Drawing.Size(114, 17);
+            this.objCheckSummary.TabIndex = 62;
+            this.objCheckSummary.Text = "Generate summary";
+            this.objCheckSummary.UseVisualStyleBackColor = true;
+            // 
             // TestForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1410, 527);
+            this.ClientSize = new System.Drawing.Size(1426, 527);
+            this.Controls.Add(this.objCheckSummary);
             this.Controls.Add(this.checkBox11);
             this.Controls.Add(this.checkBox12);
             this.Controls.Add(this.checkBox9);
@@ -694,6 +706,7 @@
         private System.Windows.Forms.CheckBox checkBox10;
         private System.Windows.Forms.CheckBox checkBox11;
         private System.Windows.Forms.CheckBox checkBox12;
+        private System.Windows.Forms.CheckBox objCheckSummary;
     }
 }
 

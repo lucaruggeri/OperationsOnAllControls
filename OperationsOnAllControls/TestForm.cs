@@ -19,7 +19,7 @@ namespace MyProgram
 
         private void button1_Click(object sender, EventArgs e)
         {
-            OperationsOnAllControls.CleanForm(this);
+            OperationsOnAllControls.CleanForm(this, objCheckSummary.Checked);
         }
 
         private void TestForm_Load(object sender, EventArgs e)
